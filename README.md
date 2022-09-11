@@ -1,4 +1,4 @@
-# ANALISI TREND FANTAMEDIA DAL 2015 AD OGGI
+# ANALISI TREND FANTAMEDIA DAL 2015-2016 AL 2021-2022
 
 ## Analisi_trend_fantamedia_giocatori_serie_A
 Obiettivo dell'analisi è effettuare tramite Python un'analisi delle fantamedie dei giocatori di serie A utilizzando i dati storici degli ultimi 7 anni con la finalità di ottenere insight interessanti che possano guidare il fantallenatore durante l'asta
